@@ -1,7 +1,10 @@
 # Python Note
 
-1. Bisect module
-2. Lambda
-3. OS module
-4. File objects
-5. Error handling
+1. Python basics
+  * Duck typing, string and datetime
+  * Data structures and functions
+2. Bisect module
+3. Lambda
+4. OS module
+5. File objects
+6. Error handling
