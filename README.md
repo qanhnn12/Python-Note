@@ -10,10 +10,10 @@ These are my notes while self-studying Python for data science.
 7. Genertators
 8. Numpy basics
 
-## References:
-**Book**
+## References
+***Book***
 * Wes McKinney - Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022)
 
-**Youtube Channels**
+***Youtube Channels***
 * [Corey Schafer](https://www.youtube.com/@coreyms)
 * [CodeXplore](https://www.youtube.com/@CodeXplore)
