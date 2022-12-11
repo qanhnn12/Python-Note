@@ -4,7 +4,7 @@ These are my notes while self-studying Python for data science.
 |-----|----------------|----------|
 | 1   | Python basics  | [Link](https://github.com/qanhnn12/python-note/tree/main/Python%20basics)     |
 | 2   | Bisect module  | [Link](https://github.com/qanhnn12/python-note/tree/main/Bisect%20module)      |
-| 3   | Lamda          | [Link](https://github.com/qanhnn12/python-note/tree/main/Lambda)      |
+| 3   | Lambda          | [Link](https://github.com/qanhnn12/python-note/tree/main/Lambda)      |
 | 4   | OS Module      | [Link](https://github.com/qanhnn12/python-note/tree/main/OS%20module)      |
 | 5   | File objects   | [Link](https://github.com/qanhnn12/python-note/tree/main/File%20objects)      |
 | 6   | Error handling | [Link](https://github.com/qanhnn12/python-note/tree/main/Error%20handling)      |
